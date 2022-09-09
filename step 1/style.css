@@ -1,0 +1,10 @@
+.touch{
+    color: rgb(17, 14, 14);
+    background-color: rgb(75, 177, 177);
+    border-color: rgb(72, 10, 129);
+}
+.main{
+    text-align: center;
+    display: block;
+    margin: 10%;
+}
